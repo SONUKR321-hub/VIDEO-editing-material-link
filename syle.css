@@ -1,0 +1,23 @@
+button{
+    background-color: rgb(236, 232, 14);
+}
+body{
+    background-image: url(https://www.vocso.com/blog/wp-content/uploads/2022/08/free-video-editing-software.jpg);
+    background-size: cover; /* Optional: to cover the entire page */
+    background-repeat: no-repeat; /* Optional: to prevent repeating */
+}
+ol{
+    font-weight: 900;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    color: rgb(rgb(244, 244, 244), green, rgb(253, 20, 20));
+    line-height: 5;
+    text-transform: uppercase;
+    text-align: end;
+}
+.b,.c{
+    color: rgb(222, 255, 8);
+}
+li{
+    color: yellow;
+}
